@@ -377,6 +377,8 @@ Fork this repository, complete the setup above and run all three workflows.
 
 Then, update the README to include the link to the Docker Hub repository you published to.
 
+Link: <https://hub.docker.com/repository/docker/heniveress/kuberneteslab03/general/>
+
 ---
 
 ## Further reading
